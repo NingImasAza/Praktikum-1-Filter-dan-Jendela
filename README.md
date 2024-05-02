@@ -1,1 +1,1 @@
-# TugasPengolahanSinyalDigital
+# Tugas Pengolahan Sinyal Digital
